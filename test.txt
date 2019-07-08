@@ -2,8 +2,5 @@ a
 b
 c
 d
-this is in dev
-sdfsd
-this
 
 
